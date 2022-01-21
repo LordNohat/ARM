@@ -1,0 +1,4 @@
+import Slush // SlushEngine Library
+board = Slush.sBoard() // initializes the SlushEngine motherboard
+joints = [Slush.Motor(0), Slush.Motor(1), Slush.Motor(2), Slush.Motor(3), Slush.Motor(4)] // used to move five individual joints as motor modules
+
