@@ -11,3 +11,4 @@
 // git clone https://github.com/Roboteurs/slushengine
 // cd slushengine
 // sudo python3 setup.py install
+// Then to run the Python 3 shell run the line python3
