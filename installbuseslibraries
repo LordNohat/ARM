@@ -1,0 +1,13 @@
+// The environment used for setting up the Python libraries will be the Raspberry Pi OS. These are the command lines to run in order for setup.
+
+// sudo apt-get update
+// sudo apt-get install python3-pip git
+// sudo pip3 install Inputs
+// sudo pip3 install spidev
+// git clone https://github.com/quick2wire/quick2wire-python-api
+// cd quick2wire-python-api
+// sudo python3 setup.py install
+// cd ..
+// git clone https://github.com/Roboteurs/slushengine
+// cd slushengine
+// sudo python3 setup.py install
